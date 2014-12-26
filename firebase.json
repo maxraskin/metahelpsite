@@ -1,0 +1,9 @@
+{
+  "firebase": "intense-heat-7611",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
